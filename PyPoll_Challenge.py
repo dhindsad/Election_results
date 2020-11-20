@@ -99,7 +99,7 @@ for county in county_votes:
 
 
         # 6b: Initialize a variable to hold the county’s votes as they are retrieved from the county votes dictionary.
-for i in range(len(county_votes)):
+#for i in range(len(county_votes)):
     
 
         # 6c: Calculate the percent of total votes for the county.
